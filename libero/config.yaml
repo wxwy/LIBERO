@@ -1,0 +1,5 @@
+assets: /gemini/code/starVLA/LIBERO/libero/libero/./assets
+bddl_files: /gemini/code/starVLA/LIBERO/libero/libero/./bddl_files
+benchmark_root: /gemini/code/starVLA/LIBERO/libero/libero
+datasets: /gemini/code/starVLA/LIBERO/libero/libero/../datasets
+init_states: /gemini/code/starVLA/LIBERO/libero/libero/./init_files
